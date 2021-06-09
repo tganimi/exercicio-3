@@ -1,7 +1,5 @@
 <?php
 
-namespace Exercicio3;
-
 class Exercicio3
 {
     private static function getFileExtension($file)
